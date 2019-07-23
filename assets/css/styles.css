@@ -1,0 +1,340 @@
+body{font-family: 'Lato', sans-serif; font-size:1rem;background: #f1f0f0; border-radius: 7px !important;overflow-x: hidden !important;}
+.bg-color{background-color: #1f2c78!important;height: 42px !important;}
+.navbar-nav{ margin: 0 auto; font-size: 25px}
+.image{ border: 1px solid #ccc;border-radius: 50%;width: 85px;height:85px;}
+.image-common{ width:45px; height:45px;margin: 10px auto;}
+.task h6{font-weight: 700;}
+.task ul li h6{ font-size: 17px;margin: 10px 0 0 10px;}
+.task{border-radius: 7px !important;}
+.task .text{ margin-bottom: 10px;}
+.ecard-2{ width:100%;height:73px; }
+.name{ width: 80%;display: flex;float: left;text-align: center;margin: 0rem 0;}
+.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+ul{ list-style: none}
+.timings .icon{width: 26px;height: 26px;border-radius:50%;background:#b9e9de;position:relative;}
+.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
+.timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
+.name .text{ position: relative; top:0.3rem;}
+.dot1{width: 15px;height: 15px;border-radius: 50%;background: #f4749e;margin-top:1.3rem;}
+.dot2{width: 15px;height: 15px;border-radius: 50%;background: #31c9a7;margin-top:1.3rem;margin-left: 1rem}
+.closures li{text-align: center;}
+.closures .converted{margin: 9px 8rem; }
+.closures .rejected{margin: 9px 1em; }
+.content-1{ background: #7fffd469;border-radius:10px;}
+.content-1 ul li span h3{ margin-left: 0rem;}
+.content-1 ul li h6 span{ margin-left: 0rem;font-size: 13px;font-weight: 900;margin-left: 6px;}
+.content-1 ul li p{ margin-left: 0rem;}
+.content-1 .image-1 li span img{ width:45px; height: 45px;}
+.content-1 ul li .text-2{position: absolute;right: 11rem;text-align: center;margin-top: .5rem;font-size: 19px;color: #fff;}
+footer{ margin-top: 1.3rem;background: #cccccc87; padding: 1.5rem;}
+footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justify-content: center;position: relative;left: 20rem;}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)and (-webkit-min-device-pixel-ratio: 2) {
+    body{ overflow-x: hidden !important;}
+	.bg-color{background-color: #1f2c78!important;height: 42px !important;padding: 1rem;}
+    .row{ margin: 0px !important;}
+    .navbar-nav {font-size: 21px;text-align: center;} 
+    .navbar-nav .nav-link{text-align: center;margin: 0 auto;position: relative;left: 0px;top: -20px;font-size: 17px}
+    .form-inline{position: relative;left: 1rem;}
+   .form-inline .first-img{position: relative;left: -25px;width: 23px;height: 23px;top: -19px;}
+    .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
+    .closures li .closure{font-size: 16px;margin-top: 4px; }
+    .closures li .average{font-size: 18px;margin-left: 28px; }
+  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+    .text-3{ margin-top: -20px}
+    .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
+    footer ul li span img {left: -4rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
+    .header li img{ width:70px;}
+    .content-1 ul li .text-2 {position: absolute;right: 2rem;top: 11rem;text-align: center;margin-top: .5rem;font-size: 19px;color: #fff;}
+    .task{ border-radius:10px !important;margin-top: -0.5rem;}
+    .task h6{font-weight: 700;position:relative; top:11px}
+   .task .image-tick{width: 35px;height: 30px;margin: 10px auto;}
+    .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
+    .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
+    .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
+    .task ul .high{margin: 10px 0 0 10px; }
+    .task ul .medium{margin: 10px 0 0 -95px; }
+    .timings .time{position: relative;right: 1.5rem;top:.5rem }
+    .timings .img-4{ margin: 0 0 0 0;}
+   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+    .ecard{ width:90%; margin-left: 15px;height:139.5px}
+   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+    .bg-color-1{ background-color: #f6f7f9!important;}
+    .task .text{ margin-bottom: 10px;}
+    .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
+    .header li .text-2{ position: absolute; top:19rem;}
+    .image-1 li span .img1{ width:55px !important; height: 45px !important;}
+    .ecard-2{ margin-top: 3rem;width:100%;height:73px;border-radius:10px !important;}
+    footer{ position: fixed; left:0; bottom: 0; width: 100%; background: #fff;height:47px !important}
+    .location{ width:14px; height: 19px;}
+     .timeline{ border-radius: 10px;margin-top: -0.5rem;}
+     .timeline .timeline-1{ margin-top: -10px}
+    .timeline .text-5 h3{ font-size: 22px !important; color:#293241;letter-spacing: 0.86px;}
+     .timeline .dot img{ width:50px; margin-top: -9px;}
+    .timeline .timeline-footer{ margin-top:-14px;}
+    .ecard ul .text-6 h3 span{ font-size:22px; color:#293241; letter-spacing: 0.86px;}
+    .ecard ul li .img-3{ width:62px; height: 23px; margin: 3px 0 0 8rem;}
+    .callback .text-7 p span{ font-size:1rem;}
+    .bg-color .img-8{ width: 24px;height: 24px;margin-top: -39px;margin-left: 0px;}
+	.footer-list{margin-top: -2px !important;margin-left: 31px;}
+	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
+	.task-1 ul .high {margin: 10px 0 0 10px;}
+	.task-1 h6 {font-weight: 700;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .high button[type="button"]{ margin-left:20px;}
+	.task-1{ border-radius:10px;margin-top: -0.5rem;}
+	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
+	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
+    .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
+	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
+    body{ overflow-x: hidden !important;}
+	.bg-color{background-color: #1f2c78!important;height: 42px !important;padding: 1rem;}
+    .row{ margin: 0px !important;}
+    .navbar-nav {font-size: 21px;text-align: center;} 
+    .navbar-nav .nav-link{text-align: center;margin: 0 auto;position: relative;left: 0px;top: -20px;font-size: 17px}
+    .form-inline{position: relative;left: 1rem;}
+   .form-inline .first-img{position: relative;left: -25px;width: 23px;height: 23px;top: -19px;}
+    .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
+    .closures li .closure{font-size: 16px;margin-top: 4px; }
+    .closures li .average{font-size: 18px;margin-left: 28px; }
+  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+    .text-3{ margin-top: -20px}
+    .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
+    footer ul li span img {left: -4rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
+    .header li img{ width:70px;}
+    .content-1 ul li .text-2 {position: absolute;right: 2rem;top: 11rem;text-align: center;margin-top: .5rem;font-size: 19px;color: #fff;}
+    .task{ border-radius:10px !important;margin-top: -0.5rem;}
+    .task h6{font-weight: 700;position:relative; top:11px}
+   .task .image-tick{width: 35px;height: 30px;margin: 10px auto;}
+    .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
+    .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
+    .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
+    .task ul .high{margin: 10px 0 0 10px; }
+    .task ul .medium{margin: 10px 0 0 -95px; }
+    .timings .time{position: relative;right: 1.5rem;top:.5rem }
+    .timings .img-4{ margin: 0 0 0 0;}
+   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+    .ecard{ width:90%; margin-left: 15px;height:139.5px}
+   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+    .bg-color-1{ background-color: #f6f7f9!important;}
+    .task .text{ margin-bottom: 10px;}
+    .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
+    .header li .text-2{ position: absolute; top:19rem;}
+    .image-1 li span .img1{ width:55px !important; height: 45px !important;}
+    .ecard-2{ margin-top: 3rem;width:100%;height:73px;border-radius:10px !important;}
+    footer{ position: fixed; left:0; bottom: 0; width: 100%; background: #fff;height:47px !important}
+    .location{ width:14px; height: 19px;}
+     .timeline{ border-radius: 10px;margin-top: -0.5rem;}
+     .timeline .timeline-1{ margin-top: -10px}
+    .timeline .text-5 h3{ font-size: 22px !important; color:#293241;letter-spacing: 0.86px;}
+     .timeline .dot img{ width:50px; margin-top: -9px;}
+    .timeline .timeline-footer{ margin-top:-14px;}
+    .ecard ul .text-6 h3 span{ font-size:22px; color:#293241; letter-spacing: 0.86px;}
+    .ecard ul li .img-3{ width:62px; height: 23px; margin: 3px 0 0 8rem;}
+    .callback .text-7 p span{ font-size:1rem;}
+    .bg-color .img-8{ width: 24px;height: 24px;margin-top: -39px;margin-left: 0px;}
+	.footer-list{margin-top: -2px !important;margin-left: 31px;}
+	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
+	.task-1 ul .high {margin: 10px 0 0 10px;}
+	.task-1 h6 {font-weight: 700;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .high button[type="button"]{ margin-left:20px;}
+	.task-1{ border-radius:10px;margin-top: -0.5rem;}
+	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
+	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
+    .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
+	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) { 
+     body{ overflow-x: hidden !important;}
+	.bg-color{background-color: #1f2c78!important;height: 42px !important;padding: 1rem;}
+    .row{ margin: 0px !important;}
+    .navbar-nav {font-size: 21px;text-align: center;} 
+    .navbar-nav .nav-link{text-align: center;margin: 0 auto;position: relative;left: 0px;top: -20px;font-size: 17px}
+    .form-inline{position: relative;left: 1rem;}
+   .form-inline .first-img{position: relative;left: -25px;width: 23px;height: 23px;top: -19px;}
+    .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
+    .closures li .closure{font-size: 16px;margin-top: 4px; }
+    .closures li .average{font-size: 18px;margin-left: 28px; }
+  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+    .text-3{ margin-top: -20px}
+    .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
+    footer ul li span img {left: -4rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
+    .header li img{ width:70px;}
+    .content-1 ul li .text-2 {position: absolute;right: 2rem;top: 11rem;text-align: center;margin-top: .5rem;font-size: 19px;color: #fff;}
+    .task{ border-radius:10px !important;margin-top: -0.5rem;}
+    .task h6{font-weight: 700;position:relative; top:11px}
+   .task .image-tick{width: 35px;height: 30px;margin: 10px auto;}
+    .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
+    .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
+    .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
+    .task ul .high{margin: 10px 0 0 10px; }
+    .task ul .medium{margin: 10px 0 0 -95px; }
+    .timings .time{position: relative;right: 1.5rem;top:.5rem }
+    .timings .img-4{ margin: 0 0 0 0;}
+   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+    .ecard{ width:90%; margin-left: 15px;height:139.5px}
+   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+    .bg-color-1{ background-color: #f6f7f9!important;}
+    .task .text{ margin-bottom: 10px;}
+    .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
+    .header li .text-2{ position: absolute; top:19rem;}
+    .image-1 li span .img1{ width:55px !important; height: 45px !important;}
+    .ecard-2{ margin-top: 3rem;width:100%;height:73px;border-radius:10px !important;}
+    footer{ position: fixed; left:0; bottom: 0; width: 100%; background: #fff;height:47px !important}
+    .location{ width:14px; height: 19px;}
+     .timeline{ border-radius: 10px;margin-top: -0.5rem;}
+     .timeline .timeline-1{ margin-top: -10px}
+    .timeline .text-5 h3{ font-size: 22px !important; color:#293241;letter-spacing: 0.86px;}
+     .timeline .dot img{ width:50px; margin-top: -9px;}
+    .timeline .timeline-footer{ margin-top:-14px;}
+    .ecard ul .text-6 h3 span{ font-size:22px; color:#293241; letter-spacing: 0.86px;}
+    .ecard ul li .img-3{ width:62px; height: 23px; margin: 3px 0 0 8rem;}
+    .callback .text-7 p span{ font-size:1rem;}
+    .bg-color .img-8{ width: 24px;height: 24px;margin-top: -39px;margin-left: 0px;}
+	.footer-list{margin-top: -2px !important;margin-left: 31px;}
+	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
+	.task-1 ul .high {margin: 10px 0 0 10px;}
+	.task-1 h6 {font-weight: 700;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .high button[type="button"]{ margin-left:20px;}
+	.task-1{ border-radius:10px;margin-top: -0.5rem;}
+	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
+	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
+    .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
+	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) { 
+     body{ overflow-x: hidden !important;}
+	.bg-color{background-color: #1f2c78!important;height: 42px !important;padding: 1rem;}
+    .row{ margin: 0px !important;}
+    .navbar-nav {font-size: 21px;text-align: center;} 
+    .navbar-nav .nav-link{text-align: center;margin: 0 auto;position: relative;left: 0px;top: -20px;font-size: 17px}
+    .form-inline{position: relative;left: 1rem;}
+   .form-inline .first-img{position: relative;left: -25px;width: 23px;height: 23px;top: -19px;}
+    .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
+    .closures li .closure{font-size: 16px;margin-top: 4px; }
+    .closures li .average{font-size: 18px;margin-left: 28px; }
+  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+    .text-3{ margin-top: -20px}
+    .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
+    footer ul li span img {left: -4rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
+    .header li img{ width:70px;}
+    .content-1 ul li .text-2 {position: absolute;right: 2rem;top: 11rem;text-align: center;margin-top: .5rem;font-size: 19px;color: #fff;}
+    .task{ border-radius:10px !important;margin-top: -0.5rem;}
+    .task h6{font-weight: 700;position:relative; top:11px}
+   .task .image-tick{width: 35px;height: 30px;margin: 10px auto;}
+    .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
+    .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
+    .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
+    .task ul .high{margin: 10px 0 0 10px; }
+    .task ul .medium{margin: 10px 0 0 -95px; }
+    .timings .time{position: relative;right: 1.5rem;top:.5rem }
+    .timings .img-4{ margin: 0 0 0 0;}
+   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+    .ecard{ width:90%; margin-left: 15px;height:139.5px}
+   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+    .bg-color-1{ background-color: #f6f7f9!important;}
+    .task .text{ margin-bottom: 10px;}
+    .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
+    .header li .text-2{ position: absolute; top:19rem;}
+    .image-1 li span .img1{ width:55px !important; height: 45px !important;}
+    .ecard-2{ margin-top: 3rem;width:100%;height:73px;border-radius:10px !important;}
+    footer{ position: fixed; left:0; bottom: 0; width: 100%; background: #fff;height:47px !important}
+    .location{ width:14px; height: 19px;}
+     .timeline{ border-radius: 10px;margin-top: -0.5rem;}
+     .timeline .timeline-1{ margin-top: -10px}
+    .timeline .text-5 h3{ font-size: 22px !important; color:#293241;letter-spacing: 0.86px;}
+     .timeline .dot img{ width:50px; margin-top: -9px;}
+    .timeline .timeline-footer{ margin-top:-14px;}
+    .ecard ul .text-6 h3 span{ font-size:22px; color:#293241; letter-spacing: 0.86px;}
+   .ecard ul li .img-3{ width:62px; height: 23px; margin: 3px 0 0 8rem;}
+    .callback .text-7 p span{ font-size:1rem;}
+    .bg-color .img-8{ width: 24px;height: 24px;margin-top: -39px;margin-left: 0px;}
+	.footer-list{margin-top: -2px !important;margin-left: 31px;}
+	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
+	.task-1 ul .high {margin: 10px 0 0 10px;}
+	.task-1 h6 {font-weight: 700;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .high button[type="button"]{ margin-left:20px;}
+	.task-1{ border-radius:10px;margin-top: -0.5rem;}
+	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
+	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
+    .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
+	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+}
+
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+     body{ overflow-x: hidden !important;}
+	.bg-color{background-color: #1f2c78!important;height: 42px !important;padding: 1rem;}
+    .row{ margin: 0px !important;}
+    .navbar-nav {font-size: 21px;text-align: center;} 
+    .navbar-nav .nav-link{text-align: center;margin: 0 auto;position: relative;left: 0px;top: -20px;font-size: 17px}
+    .form-inline{position: relative;left: 1rem;}
+   .form-inline .first-img{position: relative;left: -25px;width: 23px;height: 23px;top: -19px;}
+    .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
+    .closures li .closure{font-size: 16px;margin-top: 4px; }
+    .closures li .average{font-size: 18px;margin-left: 28px; }
+  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+    .text-3{ margin-top: -20px}
+    .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
+    footer ul li span img {left: -4rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
+    .header li img{ width:70px;}
+    .content-1 ul li .text-2 {position: absolute;right: 2rem;top: 11rem;text-align: center;margin-top: .5rem;font-size: 19px;color: #fff;}
+    .task{ border-radius:10px !important;margin-top: -0.5rem;}
+    .task h6{font-weight: 700;position:relative; top:11px}
+   .task .image-tick{width: 35px;height: 30px;margin: 10px auto;}
+    .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
+    .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
+    .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
+    .task ul .high{margin: 10px 0 0 10px; }
+    .task ul .medium{margin: 10px 0 0 -95px; }
+    .timings .time{position: relative;right: 1.5rem;top:.5rem }
+    .timings .img-4{ margin: 0 0 0 0;}
+   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+    .ecard{ width:90%; margin-left: 15px;height:139.5px}
+   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+    .bg-color-1{ background-color: #f6f7f9!important;}
+    .task .text{ margin-bottom: 10px;}
+    .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
+    .header li .text-2{ position: absolute; top:19rem;}
+    .image-1 li span .img1{ width:55px !important; height: 45px !important;}
+    .ecard-2{ margin-top: 3rem;width:100%;height:73px;border-radius:10px !important;}
+    footer{ position: fixed; left:0; bottom: 0; width: 100%; background: #fff;height:47px !important}
+    .location{ width:14px; height: 19px;}
+     .timeline{ border-radius: 10px;margin-top: -0.5rem;}
+     .timeline .timeline-1{ margin-top: -10px}
+    .timeline .text-5 h3{ font-size: 22px !important; color:#293241;letter-spacing: 0.86px;}
+     .timeline .dot img{ width:50px; margin-top: -9px;}
+    .timeline .timeline-footer{ margin-top:-14px;}
+    .ecard ul .text-6 h3 span{ font-size:22px; color:#293241; letter-spacing: 0.86px;}
+    .ecard ul li .img-3{ width:62px; height: 23px; margin: 3px 0 0 8rem;}
+    .callback .text-7 p span{ font-size:1rem;}
+    .bg-color .img-8{ width: 24px;height: 24px;margin-top: -39px;margin-left: 0px;}
+	.footer-list{margin-top: -2px !important;margin-left: 31px;}
+	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
+	.task-1 ul .high {margin: 10px 0 0 10px;}
+	.task-1 h6 {font-weight: 700;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .high button[type="button"]{ margin-left:20px;}
+	.task-1{ border-radius:10px;margin-top: -0.5rem;}
+	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
+	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
+    .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
+	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+	}

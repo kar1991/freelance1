@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>E065DE09-6035-4F9D-BFB8-BC4C1ECC7D1E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M26.4638017,13.3857915 L4.51455994,0.409549461 C2.73118405,-0.644263565 0,0.378371561 0,2.98484401 L0,28.9310925 C0,31.269435 2.53788107,32.6786761 4.51455994,31.5063871 L26.4638017,18.5363806 C28.4217738,17.3827983 28.4280094,14.5393738 26.4638017,13.3857915 Z M2.99307842,28.2763566 L2.99307842,3.6458155 C2.99307842,3.35897882 3.311093,3.178147 3.5605162,3.32156534 L24.3998247,15.6368359 C24.6430123,15.7802542 24.6430123,16.1356823 24.3998247,16.2791006 L3.5605162,28.6006068 C3.311093,28.7440251 2.99307842,28.5631933 2.99307842,28.2763566 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Up-next" transform="translate(-393.000000, -281.000000)">
+            <g id="Group-3" transform="translate(393.000000, 281.000000)">
+                <g id="Group-2">
+                    <g id="Group-5" fill="#FFD8E5">
+                        <circle id="Oval" cx="42" cy="42" r="42"></circle>
+                    </g>
+                    <g id="play" transform="translate(32.000000, 27.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use fill="#D6678C" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="113px" viewBox="0 0 112 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Action-bar" transform="translate(-73.000000, -48.000000)">
+            <g id="Group-8" transform="translate(76.000000, 51.000000)">
+                <g id="Group-7">
+                    <path d="M96.7965424,82.856402 C102.603951,74.3539164 106,64.073553 106,53 C106,23.7289083 82.2710917,2.13162821e-14 53,2.13162821e-14 C23.7289083,2.13162821e-14 0,23.7289083 0,53" id="Oval" stroke="#293241" stroke-width="4"></path>
+                    <path d="M96.7965424,82.856402 C102.603951,74.3539164 106,64.073553 106,53 C106,23.7289083 82.2710917,2.13162821e-14 53,2.13162821e-14 C23.7289083,2.13162821e-14 0,23.7289083 0,53" id="Oval" stroke="#1F2C78" stroke-width="5"></path>
+                    <g id="Group-2" stroke="#1F2C78">
+                        <g id="Group-3" stroke-width="5">
+                            <path d="M96.7965424,82.856402 C102.603951,74.3539164 106,64.073553 106,53 C106,23.7289083 82.2710917,0 53,0 C23.7289083,0 0,23.7289083 0,53" id="Oval" transform="translate(53.000000, 41.428201) scale(-1, 1) translate(-53.000000, -41.428201) "></path>
+                        </g>
+                        <circle id="Oval" fill="#1F2C78" cx="53" cy="65" r="9"></circle>
+                        <path d="M53,65 L83,34" id="Path-51" stroke-width="4" fill="#1F2C78" stroke-linecap="round"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-Copy-2" fill="#1F2C78" x="23" y="105" width="60" height="5" rx="2.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

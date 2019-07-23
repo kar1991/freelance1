@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="96px" viewBox="0 0 92 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Action-bar" transform="translate(-571.000000, -46.000000)">
+            <g id="Group-5" transform="translate(568.000000, 38.000000)">
+                <g id="Group-6">
+                    <g id="noun_qualified-lead_2006846">
+                        <g id="Group">
+                            <rect id="Rectangle" x="0" y="0" width="116" height="116"></rect>
+                        </g>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#77767E" stroke-width="4" cx="43.5" cy="32.5" r="22.5"></circle>
+                <path d="M82,100.5 C82,79.2370371 64.7629629,62 43.5,62 C22.2370371,62 5,79.2370371 5,100.5" id="Oval-Copy" stroke="#77767E" stroke-width="4"></path>
+                <polygon id="Star" stroke="#77767E" stroke-width="4" fill="#FFFFFF" points="71.5 94.25 60.0381876 100.275831 62.227199 87.5129157 52.9543979 78.4741686 65.7690938 76.6120843 71.5 65 77.2309062 76.6120843 90.0456021 78.4741686 80.772801 87.5129157 82.9618124 100.275831"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
