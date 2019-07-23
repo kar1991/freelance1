@@ -53,8 +53,6 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
     .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
-    .task ul .high{margin: 10px 0 0 10px; }
-    .task ul .medium{margin: 10px 0 0 -95px; }
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
@@ -82,7 +80,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
 	.task-1 ul .high {margin: 10px 0 0 10px;}
 	.task-1 h6 {font-weight: 700;}
-	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .medium button[type="button"]{ margin-left:5.5rem;margin-top: 10px;}
 	.task-1 ul .high button[type="button"]{ margin-left:20px;}
 	.task-1{ border-radius:10px;margin-top: -0.5rem;}
 	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
@@ -115,8 +113,6 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
     .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
-    .task ul .high{margin: 10px 0 0 10px; }
-    .task ul .medium{margin: 10px 0 0 -95px; }
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
@@ -144,7 +140,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
 	.task-1 ul .high {margin: 10px 0 0 10px;}
 	.task-1 h6 {font-weight: 700;}
-	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .medium button[type="button"]{ margin-left:5.5rem;margin-top: 10px;}
 	.task-1 ul .high button[type="button"]{ margin-left:20px;}
 	.task-1{ border-radius:10px;margin-top: -0.5rem;}
 	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
@@ -177,8 +173,6 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
     .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
-    .task ul .high{margin: 10px 0 0 10px; }
-    .task ul .medium{margin: 10px 0 0 -95px; }
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
@@ -206,7 +200,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
 	.task-1 ul .high {margin: 10px 0 0 10px;}
 	.task-1 h6 {font-weight: 700;}
-	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 5.5rem;margin-top: 10px;}
 	.task-1 ul .high button[type="button"]{ margin-left:20px;}
 	.task-1{ border-radius:10px;margin-top: -0.5rem;}
 	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
@@ -239,8 +233,6 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
     .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
-    .task ul .high{margin: 10px 0 0 10px; }
-    .task ul .medium{margin: 10px 0 0 -95px; }
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
@@ -268,7 +260,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
 	.task-1 ul .high {margin: 10px 0 0 10px;}
 	.task-1 h6 {font-weight: 700;}
-	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 5.5rem;margin-top: 10px;}
 	.task-1 ul .high button[type="button"]{ margin-left:20px;}
 	.task-1{ border-radius:10px;margin-top: -0.5rem;}
 	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
@@ -301,8 +293,6 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task .image-notification{width: 28px;height: 30px;margin: 10px auto;}
     .task .image-group{width: 35px;height: 30px;margin: 10px auto;}
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
-    .task ul .high{margin: 10px 0 0 10px; }
-    .task ul .medium{margin: 10px 0 0 -95px; }
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
@@ -330,7 +320,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.task-1 ul li h6 {font-size: 17px;margin: 21px 0 0 17px;}
 	.task-1 ul .high {margin: 10px 0 0 10px;}
 	.task-1 h6 {font-weight: 700;}
-	.task-1 ul .medium button[type="button"]{ margin-left: 7rem;margin-top: 10px;}
+	.task-1 ul .medium button[type="button"]{ margin-left: 5.5rem;margin-top: 10px;}
 	.task-1 ul .high button[type="button"]{ margin-left:20px;}
 	.task-1{ border-radius:10px;margin-top: -0.5rem;}
 	.suggestedactions{ border-radius:10px;margin-top: -0.5rem;}
