@@ -40,8 +40,8 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
     .closures li .closure{font-size: 16px;margin-top: 4px; }
     .closures li .average{font-size: 18px;margin-left: 28px; }
-  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
-    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+  .image{border: .5px solid #979797;border-radius: 50%;width: 58px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left:0px !important;margin-top: -3px;width: 30px;height: 30px;}
     .text-3{ margin-top: -20px}
     .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
     footer ul li span img {left: -4.7rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
@@ -55,10 +55,10 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
-   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+   .image-2 li span .img1{ position: absolute; right: -1rem;width: 35px !important;height: 35px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -87,6 +87,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
     .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
 	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+    .image-2{position: relative;left: 9px; }
 }
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
@@ -100,8 +101,8 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
     .closures li .closure{font-size: 16px;margin-top: 4px; }
     .closures li .average{font-size: 18px;margin-left: 28px; }
-  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
-    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+ .image{border: .5px solid #979797;border-radius: 50%;width: 58px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left:0px !important;margin-top: -3px;width: 30px;height: 30px;}
     .text-3{ margin-top: -20px}
     .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
      footer ul li span img {left: -4.7rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
@@ -115,10 +116,10 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
-   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+   .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
+    .image-2 li span .img2{ position: absolute; right:3rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -147,6 +148,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
     .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
 	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+     .image-2{position: relative;left: 9px; }
 }
 
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) { 
@@ -160,8 +162,8 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
     .closures li .closure{font-size: 16px;margin-top: 4px; }
     .closures li .average{font-size: 18px;margin-left: 28px; }
-  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
-    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+  .image{border: .5px solid #979797;border-radius: 50%;width: 58px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left:0px !important;margin-top: -3px;width: 30px;height: 30px;}
     .text-3{ margin-top: -20px}
     .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
      footer ul li span img {left: -4.7rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
@@ -175,10 +177,10 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
-   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+   .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -207,6 +209,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
     .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
 	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+     .image-2{position: relative;left: 9px; }
 }
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) { 
@@ -220,8 +223,8 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
     .closures li .closure{font-size: 16px;margin-top: 4px; }
     .closures li .average{font-size: 18px;margin-left: 28px; }
-  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
-    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+ .image{border: .5px solid #979797;border-radius: 50%;width: 58px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left:0px !important;margin-top: -3px;width: 30px;height: 30px;}
     .text-3{ margin-top: -20px}
     .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
      footer ul li span img {left: -4.7rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
@@ -235,10 +238,10 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
-   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+  .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+  .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -267,6 +270,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
     .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
 	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+     .image-2{position: relative;left: 9px; }
 }
 
 @media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) {
@@ -280,8 +284,8 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .form-inline .second-img{ position: relative;left: -16px;width: 30px;height: 30px;top: -19px; }
     .closures li .closure{font-size: 16px;margin-top: 4px; }
     .closures li .average{font-size: 18px;margin-left: 28px; }
-  .image{border: .5px solid #979797;border-radius: 50%;width: 56px;height: 45px;margin-top: -5px;}
-    .image img{ margin-left: 1px !important;margin-top: -3px;width: 30px;height: 30px;}
+  .image{border: .5px solid #979797;border-radius: 50%;width: 58px;height: 45px;margin-top: -5px;}
+    .image img{ margin-left:0px !important;margin-top: -3px;width: 30px;height: 30px;}
     .text-3{ margin-top: -20px}
     .text-3 h6 span{ color: #979797;line-height: 19.5px;position: relative;top: 6px; }
      footer ul li span img {left: -4.7rem;position: relative;margin: 0px 2.3rem;width: 30px;height: 30px !important;top: -11px;}
@@ -295,10 +299,10 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
-   .image-2 li span .img1{ position: absolute; right: -1rem;width: 45px !important;height: 40px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width: 40px !important;background-color: #aed2e230!important;height: 40px !important;}
+   .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
+    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:9rem; margin-top:3px;}
+   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -327,4 +331,5 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
     .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
 	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
+     .image-2{position: relative;left: 9px; }
 	}
