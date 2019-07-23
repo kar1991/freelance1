@@ -55,10 +55,10 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .task ul li h6{ font-size: 17px;margin: 20px 0 0 10px;}
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
-   .image-2 li span .img1{ position: absolute; right: -1rem;width: 35px !important;height: 35px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
+   .image-2 li span .img1{ position: absolute; right: 0rem;width: 35px !important;height: 35px !important;}
+    .image-2 li span .img2{ position: absolute; right: 1rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
+   .ecard ul .cal{ margin-left:9.7rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -117,9 +117,9 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
-    .image-2 li span .img2{ position: absolute; right:3rem;width:35px !important;height:35px !important;}
+    .image-2 li span .img2{ position: absolute; right:1rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
+   .ecard ul .cal{ margin-left:9.7rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -178,9 +178,9 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
+    .image-2 li span .img2{ position: absolute; right: 1rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
+ .ecard ul .cal{ margin-left:9.7rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -239,9 +239,9 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
   .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
+    .image-2 li span .img2{ position: absolute; right: 1rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-  .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
+  .ecard ul .cal{ margin-left:9.7rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
@@ -270,7 +270,7 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
 	.timings .icon .fa-caret-right{ position: absolute;left: 1.2rem;top: 0.5rem;font-size: 33px;color: #FFC107;}
     .timings .icon .fa-check-circle{ position: absolute;left: 0.4rem;top: 0.4rem;color: #28b595;font-size:14px}
 	.name .name_1{z-index: 1;width: 35px;height: 35px;border-radius: 50%;background: #000;position: relative;top:0px;color: #fff;text-align: center;margin: 0rem 0;vertical-align: middle;font-size: 16px;}
-     .image-2{position: relative;left: 9px; }
+     .image-2{position: relative;left: 9px;}
 }
 
 @media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) {
@@ -300,9 +300,9 @@ footer ul li span img{width: 50px;height: 50px !important;margin: 0 1.5rem;justi
     .timings .time{position: relative;right: 1.5rem;top:.5rem }
     .timings .img-4{ margin: 0 0 0 0;}
    .image-2 li span .img1{ position: absolute; right:0rem;width: 35px !important;height: 35px !important;}
-    .image-2 li span .img2{ position: absolute; right: 3rem;width:35px !important;height:35px !important;}
+    .image-2 li span .img2{ position: absolute; right:1rem;width:35px !important;height:35px !important;}
     .ecard{ width:90%; margin-left: 15px;height:139.5px}
-   .ecard ul .cal{ margin-left:11rem; margin-top:3px;}
+   .ecard ul .cal{ margin-left:9.7rem; margin-top:3px;}
     .bg-color-1{ background-color: #f6f7f9!important;}
     .task .text{ margin-bottom: 10px;}
     .ecard-1 .nav .nav-item .nav-link .bg-width{ width:4rem;}
